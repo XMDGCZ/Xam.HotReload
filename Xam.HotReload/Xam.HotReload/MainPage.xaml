@@ -6,9 +6,12 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
+        <Label Text="Welcome to Xamarin.asdasd!" 
            HorizontalOptions="Center"
+           TextColor="Red"
            VerticalOptions="CenterAndExpand" />
+        <Button Text="Ahoj"/>
+        <ActivityIndicator IsRunning="True"/>
     </StackLayout>
 
 </ContentPage>

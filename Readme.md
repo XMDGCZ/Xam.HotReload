@@ -1,0 +1,1 @@
+# Hot reload Xamarin.Forms sample by [AndreiMisiukevich](https://github.com/AndreiMisiukevich/HotReload)
